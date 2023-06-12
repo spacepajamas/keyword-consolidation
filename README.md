@@ -1,1 +1,1 @@
-# keyword-consolidation
+Swisstext 23 Workshop: Keyword Consolidation
